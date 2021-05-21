@@ -1,0 +1,45 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+
+    "sahip" : "ID'niz",
+    "prefix" : "Prefixiniz",
+    "footer" : "Adınız ❤️ Sunucu isminiz",
+
+    "tag" : "Tagınız",
+    "sembol" : "Kayıt ederken isim ve yaşın arasına koyulacak sembol (yoksa boş bırakın)",
+  
+    "yetkiliRol" : ["YETKİLİ ROLÜ ID", "2. YOKSA BOŞ BIRAK", "3. YOKSA BOŞ BIRAK"],
+    "vipRol" : "VIP ROL ID",
+    "boosterRol" : "BOOSTER ROL ID",
+    "kayıtsızRol" : "KAYITSIZ ROL ID",
+    "erkekRol1" : "YOKSA BOŞ BIRAK",
+    "erkekRol2" : "YOKSA BOŞ BIRAK",
+    "kadınRol1" : "YOKSA BOŞ BIRAK",
+    "kadınRol2" : "YOKSA BOŞ BIRAK",
+
+    "sifirEmoji" : "SIFIR EMOJİ ID",
+    "birEmoji" : "BİR EMOJİ ID",
+    "ikiEmoji" : "İKİ EMOJİ ID",
+    "ucEmoji" : "UC EMOJİ ID",
+    "dortEmoji" : "DORT EMOJİ ID",
+    "besEmoji" : "BES EMOJİ ID",
+    "altiEmoji" : "ALTİ EMOJİ ID",
+    "yediEmoji" : "YEDİ EMOJİ ID",
+    "sekizEmoji" : "SEKİZ EMOJİ ID",
+    "dokuzEmoji" : "DOKUZ EMOJİ ID",
+
+    "tagRol" : "TAGLI ROLÜ ID",
+
+    "hosgeldinKanal" : "HOS GELDİN MESAJI ATILACAK KANAL ID",
+    "hosgeldinMesajEmoji" : "HOS GELDİN EMOJİSİ ID",
+    "hosgeldinMesajYetkili": "HOS GELDİN MESAJINDA ETİKETLENECEK ROL ID",
+    "rulesKanal" : "KURALLAR KANALI ID",
+
+    "sohbetKanal" : "SOHBET KANALI ID", 
+  
+    "botSesKanal" : "BOT SES KANALI ID",
+  
+    "yes" : "ONAY EMOJİSİ ID",
+    "no" : "RED EMOJİSİ ID"
+}
